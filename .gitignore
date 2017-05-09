@@ -1,0 +1,14 @@
+# IDEs etc
+*.swp
+*.sublime*
+.idea
+*.iml
+.DS_Store
+.project
+/.settings
+
+
+
+
+# Build, test etc
+/.make
